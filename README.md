@@ -1,0 +1,2 @@
+# golib
+test go library
